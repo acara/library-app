@@ -1,4 +1,4 @@
-# library
+# library-app with hyperscript usage
 Small example how to use hyperscript
 
 # install dependencies
